@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Tutorial by Rocketseat 
-(https://www.youtube.com/watch?v=x4FdZd2-_uU)
+[Rocketseat Youtube channel](https://www.youtube.com/watch?v=x4FdZd2-_uU)
 
 ## Available Scripts
 
