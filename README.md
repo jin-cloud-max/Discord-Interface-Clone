@@ -3,6 +3,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Tutorial by Rocketseat 
 [Rocketseat Youtube channel](https://www.youtube.com/watch?v=x4FdZd2-_uU)
 
+## Final result
+![Screenshot](discord.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
